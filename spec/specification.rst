@@ -12,3 +12,5 @@ Requirements
 
 - As lightweight as possible
 
+- Extensible and customizable
+
